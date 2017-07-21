@@ -30,7 +30,7 @@ After cloning this repo:
 How to install node js and packages
 
 ```
-(https://gist.github.com/isaacs/579814])
+*[Install Node](https://gist.github.com/isaacs/579814])
 
 For packages, open terminal and type:
 
@@ -43,9 +43,9 @@ npm install node-twitterbot --save
 For twitter credentials
 
 ```
-Create a new twitter account: [Twitter](https://twitter.com/signup)
+*Create a new twitter account: [Twitter](https://twitter.com/signup)
 
-Create a twitter account app: [Twitter](https://apps.twitter.com/app/new)
+*Create a twitter account app: [Twitter](https://apps.twitter.com/app/new)
 
 After creating the twitter account app, Navigate to your dashboard and open the tab: Keys and Access Tokens
   
