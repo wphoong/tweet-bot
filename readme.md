@@ -28,10 +28,9 @@ After cloning this repo:
 
 
 How to install node js and packages
-
-```
 * [Install Node](https://gist.github.com/isaacs/579814])
 
+```
 For packages, open terminal and type:
 
 npm init
