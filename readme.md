@@ -41,11 +41,11 @@ npm install node-twitterbot --save
 
 For twitter credentials
 
-```
 * Create a new twitter account: [Twitter](https://twitter.com/signup)
 
 * Create a twitter account app: [Twitter](https://apps.twitter.com/app/new)
 
+```
 After creating the twitter account app, Navigate to your dashboard and open the tab: Keys and Access Tokens
   
   You will see your keys here. Scroll down to create an access token.
