@@ -63,7 +63,7 @@ WARNING: If you place API keys in the config.js file, do not make your files pub
 After configuring everything, open terminal and type
 
 ```
-node.bot.j
+node.bot.js
 ```
 
 Enjoy!
